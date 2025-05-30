@@ -1,0 +1,2 @@
+# -Forecasting-Stock-Closing-Prices-of-Applied-Optoelectronics-Inc.-Using-Time-Series-Models
+This study focuses on forecasting the closing stock price of Applied Optoelectronics, Inc. using Holt-Winters and ARIMA time series models to capture trends and seasonality, evaluate forecasting accuracy, check residual assumptions, and support investment decisions through reliable stock price predictions.
